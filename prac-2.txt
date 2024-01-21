@@ -1,0 +1,2 @@
+Area Of Rectangle: 20
+Perimeter Of Rectangle: 18
